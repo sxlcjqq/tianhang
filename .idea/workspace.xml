@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ced7de-75e6-473b-af08-2ae894333118" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/page/Login.vue" afterPath="$PROJECT_DIR$/src/components/page/Login.vue" />
-      <change beforePath="$PROJECT_DIR$/static/css/theme-green/color-green.css" afterPath="$PROJECT_DIR$/static/css/theme-green/color-green.css" />
+      <change beforePath="$PROJECT_DIR$/dist.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/components/page/Qyjg.vue" afterPath="$PROJECT_DIR$/src/components/page/Qyjg.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Qyjg.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Qyjg.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/page/Qyjg.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-411">
+              <caret line="74" column="22" lean-forward="false" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -41,7 +40,7 @@
       <file leaf-file-name="Login.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/page/Login.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="1184">
               <caret line="97" column="6" lean-forward="false" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
               <folding />
             </state>
@@ -80,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="color-green.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="color-green.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/theme-green/color-green.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
@@ -118,8 +117,8 @@
       <find>store</find>
       <find>ms_username</find>
       <find>mapState</find>
-      <find>ms-login</find>
       <find>.el-menu-item</find>
+      <find>ms-login</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/components/common/Header.vue" />
         <option value="$PROJECT_DIR$/src/components/page/Login.vue" />
         <option value="$PROJECT_DIR$/static/css/theme-green/color-green.css" />
+        <option value="$PROJECT_DIR$/src/components/page/Qyjg.vue" />
       </list>
     </option>
   </component>
@@ -190,13 +190,6 @@
               <item name="tianhang" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tianhang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tianhang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tianhang" type="b2602c69:ProjectViewProjectNode" />
@@ -329,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527856815006</updated>
       <workItem from="1527856816205" duration="6965000" />
-      <workItem from="1528116005564" duration="817000" />
+      <workItem from="1528116005564" duration="1263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7782000" />
+    <option name="totallyTimeSpent" value="8228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -473,22 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/page/Qyjg.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/page/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="97" column="6" lean-forward="false" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/common/Sidebar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1673">
@@ -531,6 +508,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="97" column="6" lean-forward="false" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Qyjg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="74" column="22" lean-forward="false" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
           <folding />
         </state>
       </provider>

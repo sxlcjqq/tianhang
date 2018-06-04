@@ -72,7 +72,7 @@
         name: 'basetable',
         data() {
             return {
-                url: '../../../static/vuetable.json',
+                url: './static/vuetable.json',
                 tableData: [],
                 cur_page: 1,
                 multipleSelection: [],
