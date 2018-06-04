@@ -14,7 +14,7 @@ import "babel-polyfill";
 Vue.use(ElementUI, { size: 'small' });
 Vue.use(Vuex)
 
-axios.defaults.baseURL = 'http://localhost:8080'; // 通用接口地址
+// axios.defaults.baseURL = 'http://localhost:8080'; // 通用接口地址
 Vue.prototype.$axios = axios;
 
 // 存储vuex数据

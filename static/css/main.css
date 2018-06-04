@@ -27,7 +27,7 @@ a {
 
 .content-box {
     position: absolute;
-    left: 250px;
+    left: 200px;
     right: 0;
     top: 70px;
     bottom: 0;
@@ -181,4 +181,7 @@ a {
 .el-input.is-active .el-input__inner, .el-input__inner:focus {
   border-color: #3e8860;
   outline: 0;
+}
+.el-select .el-input.is-focus .el-input__inner{
+  border-color: #3e8860;
 }

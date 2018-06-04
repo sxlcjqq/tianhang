@@ -89,12 +89,12 @@
       text-align: center;
     }
     .ms-login{
-      width: 450px;
+      width: 400px;
       padding:30px;
       border-radius: 10px;
       background: #fff;
       box-shadow: 0.5px 0.866px 35px 0px rgb( 150, 150, 150 );
-      margin: 50px auto 20px;
+      margin: 40px auto 20px;
     }
     .ms-logo{
       display: block;
@@ -120,9 +120,8 @@
       font-size: 20px;
       border:none;
       border-radius: 5px;
-      line-height: 48px;
-      height: 48px;
-      margin-top: 10px;
+      line-height: 42px;
+      height: 42px;
     }
     .loginbtn:hover{
       background-color: #3e8860;
@@ -131,7 +130,7 @@
       width: 20px;
       height: 20px;
       display: block;
-      margin-top: 14px;
+      margin-top: 12px;
       margin-left: 6px;
       vertical-align: middle;
       background: url(../../../static/img/login_user.png) no-repeat center center;
@@ -141,7 +140,7 @@
       width: 20px;
       height: 20px;
       display: block;
-      margin-top: 14px;
+      margin-top: 12px;
       margin-left: 6px;
       vertical-align: middle;
       background: url(../../../static/img/login_pass.png) no-repeat center center;
@@ -151,7 +150,7 @@
       width: 20px;
       height: 20px;
       display: block;
-      margin-top: 14px;
+      margin-top: 12px;
       margin-left: 6px;
       vertical-align: middle;
       background: url(../../../static/img/login_vali.png) no-repeat center center;
@@ -163,16 +162,16 @@
     .qq_input_vali img{
       max-width: 137px;
       max-height: 35px;
-      margin-top: 6px;
+      margin-top: 3px;
       margin-right: 3px;
       display: block;
     }
 </style>
 <style>
 .login-wrap .el-input__inner{
-  height: 48px;
-  line-height: 48px;
-  font-size: 18px;
+  height: 42px;
+  line-height: 42px;
+  font-size: 16px;
 }
 .login-wrap .el-input--prefix .el-input__inner {
   padding-left: 48px;

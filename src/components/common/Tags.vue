@@ -98,7 +98,7 @@
         overflow: hidden;
         background: #fff;
         padding-right: 120px;
-        padding-top:5px;
+        padding-top:2px;
     }
 
     .tags ul {
@@ -111,11 +111,10 @@
         float: left;
         margin: 3px 5px 2px 3px;
         border-radius: 3px;
-        font-size: 12px;
+        font-size: 14px;
         overflow: hidden;
         cursor: pointer;
-        height: 23px;
-        line-height: 23px;
+        line-height: 27px;
         border: 1px solid #e9eaec;
         background: #fff;
         padding: 0 5px 0 12px;
