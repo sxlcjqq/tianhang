@@ -94,7 +94,9 @@
       border-radius: 10px;
       background: #fff;
       box-shadow: 0.5px 0.866px 35px 0px rgb( 150, 150, 150 );
-      margin: 40px auto 20px;
+      margin: -10px auto 20px;
+      position: relative;
+      z-index: 1;
     }
     .ms-logo{
       display: block;

@@ -28,8 +28,8 @@
     /* background: #00d1b2; */
 }
 .el-menu-item{
-  height: 43px;
-  line-height: 43px;
+  height: 43px !important;
+  line-height: 43px !important;
 }
 .el-menu-item:focus, .el-menu-item:hover,.el-menu-item.is-active{
   background-color:#3e8860 !important;
