@@ -10,7 +10,6 @@ import '../static/qqfont/iconfont.css' //引入自定义字体图标
 import '../static/css/theme-green/index.css';       // 浅绿色主题
 import '../static/css/main.css' //引入自定义字体图标
 import "babel-polyfill";
-import ElTree from 'element-ui/packages/tree'
 
 Vue.use(ElementUI, { size: 'small' });
 Vue.use(Vuex)
