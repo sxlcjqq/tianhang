@@ -22,13 +22,9 @@
         data: function(){
             return {
               data: [{
-                label: '一级 1',
-                children: [{
-                  label: '二级 1-1',
-                  children: [{
-                    label: '三级 1-1-1'
-                  }]
-                }]
+                label: '一级 1'
+              },{
+                label: '一级 1'
               }, {
                 label: '一级 2',
                 children: [{
@@ -47,6 +43,8 @@
                 children: [{
                   label: '二级 3-1',
                   children: [{
+                    label: '三级 3-1-1'
+                  },{
                     label: '三级 3-1-1'
                   }]
                 }, {
@@ -71,12 +69,18 @@
 </script>
 <style>
 .el-tree-node__content>.el-tree-node__expand-icon{
-  background: url(../../../static/img/line.png) no-repeat center;
-  background-size:contain;
+  /* background: url(../../../static/img/line.png) no-repeat center;
+  background-size:contain; */
 }
 .el-tree-node__content{
-  background: url(../../../static/img/line2.png) no-repeat left center;
-  background-size:contain;
+  /* background: url(../../../static/img/line2.png) no-repeat left center;
+  background-size:contain; */
+}
+.el-tree-node__expand-icon{
+  background: url(../../../static/img/line3.gif) repeat-y left center;
+}
+.el-tree-node:last-child .el-tree-node__expand-icon{
+  background: url(../../../static/img/line2.gif) repeat-y left center;
 }
 .el-tree-node__expand-icon.expanded{
   transform:none;
